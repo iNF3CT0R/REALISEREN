@@ -1,6 +1,6 @@
 <html>
 	<body>
-		<h1>WAT IS GITHUB??? kort uigelegd</h1>
+		<h1>WAT IS GITHUB??? kort uitgelegd</h1>
 		<?php
 		echo "<p>GitHub is een zeer handige platform waar je jouw codes kan opslaan en organiseren in je eigen profiel.</p>
 		<p>Je kan ook profielen van anderen of organisaties bezoeken en hun codes inzien.</p>
